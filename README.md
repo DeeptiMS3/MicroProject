@@ -1,7 +1,6 @@
 // MicroProject
 //A MicroProject on JASONPOWERDB
 
-
 <!DOCTYPE html>
 <html lang="en"> 
 
